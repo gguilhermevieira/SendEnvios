@@ -1,0 +1,14 @@
+/Users/guilhermevieira/me/projetos/estudo/SendEnvios/bin/Debug/net8.0/SendEnvios
+/Users/guilhermevieira/me/projetos/estudo/SendEnvios/bin/Debug/net8.0/SendEnvios.deps.json
+/Users/guilhermevieira/me/projetos/estudo/SendEnvios/bin/Debug/net8.0/SendEnvios.runtimeconfig.json
+/Users/guilhermevieira/me/projetos/estudo/SendEnvios/bin/Debug/net8.0/SendEnvios.dll
+/Users/guilhermevieira/me/projetos/estudo/SendEnvios/bin/Debug/net8.0/SendEnvios.pdb
+/Users/guilhermevieira/me/projetos/estudo/SendEnvios/obj/Debug/net8.0/SendEnvios.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guilhermevieira/me/projetos/estudo/SendEnvios/obj/Debug/net8.0/SendEnvios.AssemblyInfoInputs.cache
+/Users/guilhermevieira/me/projetos/estudo/SendEnvios/obj/Debug/net8.0/SendEnvios.AssemblyInfo.cs
+/Users/guilhermevieira/me/projetos/estudo/SendEnvios/obj/Debug/net8.0/SendEnvios.csproj.CoreCompileInputs.cache
+/Users/guilhermevieira/me/projetos/estudo/SendEnvios/obj/Debug/net8.0/SendEnvios.dll
+/Users/guilhermevieira/me/projetos/estudo/SendEnvios/obj/Debug/net8.0/refint/SendEnvios.dll
+/Users/guilhermevieira/me/projetos/estudo/SendEnvios/obj/Debug/net8.0/SendEnvios.pdb
+/Users/guilhermevieira/me/projetos/estudo/SendEnvios/obj/Debug/net8.0/SendEnvios.genruntimeconfig.cache
+/Users/guilhermevieira/me/projetos/estudo/SendEnvios/obj/Debug/net8.0/ref/SendEnvios.dll
